@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Resnick7&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-resnick7s-projects.vercel.app?user=Resnick7&theme=tokyonight&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Resnick7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
